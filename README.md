@@ -1,8 +1,8 @@
 # Identificação
 
-* Nome: 
-* Email (@ccc): 
-* Matrícula: 
+* Nome: Luana Lyz
+* Email (@ccc): luana.lyz.araujo.rocha@ccc.ufcg.edu.br
+* Matrícula: 123110697
 
 # Roteiro: isAVL
 
